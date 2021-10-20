@@ -39,5 +39,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito ❤❤❤ by George Armando durante a NLW Heat by [Rocketseat](https://www.rocketseat.com.br/) 👋🏻 
+Feito ❤ by George Armando durante a NLW Heat by [Rocketseat](https://www.rocketseat.com.br/) 👋🏻 
 
